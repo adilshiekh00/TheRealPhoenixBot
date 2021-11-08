@@ -57,7 +57,7 @@
          "value": "254318997 18673980 83489514"
       },
       "BL_CHATS": {
-          "description": "A space separated list of chat IDs to blacklist. Bot will leave those chats when added to them.",
+          "description": "A spae separated list of chat IDs to blacklist. Bot will leave those chats when added to them.",
           "required": false,
           "value": ""
       },
